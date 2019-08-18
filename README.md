@@ -7,6 +7,11 @@ Projedeki amacım yararlandığım kaynakdan izleyerek hem anlayarak hem de kod 
 
 Projeyi yaparken adım adım nasıl yapıdıgı .pdf dosyasında kendimce notlar tuttum.
 
+Kısaca projede başlıca neler yapıldığına deyinmek gerekirse;
+- Projeyi belli bileşenlere ayrıldı.
+- Arama kutucuğunda girilen değere göre Youtube Apisine istek yollanıp gelen verileri listelenir.
+- Listelenen verilerden birini seçince ortaka video oynatılır.
+
 Proje görseli aşağıdaki gibidir.
 
 ![11](https://user-images.githubusercontent.com/18083748/63222637-41dfbf00-c1b3-11e9-8168-606a010b4c01.JPG)
