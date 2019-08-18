@@ -1,7 +1,7 @@
 # React Project
  **React Projesi - YouTube Data API v3 kullanarak React ile video arama - listeleme - oynatma projesi gerçekleştirdim**
 
-*Projeyi yaparken yararlandığım kaynak Udemy de Modern React with Redux [2019 Update]*
+*Projeyi yaparken yararlandığım kaynak Udemy de Modern React with Redux [2019 Update]-Stephen Grider*
 
 Projedeki amacım yararlandığım kaynakdan izleyerek hem anlayarak hem de kod yazarak projeyi gerçekleştirmekti.
 
